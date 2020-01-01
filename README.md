@@ -1,16 +1,8 @@
 # flutter_image_picker
 
-A new Flutter application.
+Pick and save image from gallery or camera using shared preferences.
+Check pubspec.yaml dependency:
+image_picker: ^0.6.2+3
+shared_preferences: ^0.5.6
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1577907924](https://user-images.githubusercontent.com/42300223/71645389-e6cce580-2cd7-11ea-8dcf-7e331cbe25df.png)
